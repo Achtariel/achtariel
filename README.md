@@ -1,4 +1,4 @@
-## Hola mi nombre es Diego Obando Diseñador grafico de profesion con diplomado en diseño y medicion de experiencia de usuario en plataformar digitales junto con recientes certificaciones en becas de programacion y ciberseguridad 👋
+## Hola mi nombre es Diego Obando Diseñador grafico de profesion con diplomado en diseño y medicion de experiencia de usuario en plataformas digitales junto con recientes certificaciones en becas de programacion y ciberseguridad 👋
 
 <!--
 **Achtariel/achtariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
